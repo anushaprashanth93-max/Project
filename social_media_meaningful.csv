@@ -1,0 +1,351 @@
+post_id,platform,username,movie_title,post_text,likes,rating,sentiment,timestamp
+P2000,Twitter,user_513,Joker,Just watched Joker! intense slow bad amazing great amazing great beautiful amazing. #Joker,662,,positive,2025-01-25T12:36:57.058105
+P2001,IMDB,user_687,Inception,"Review of Inception: beautiful exciting amazing slow boring boring exciting confusing boring. Overall, it felt disappointing.",9621,1.5,negative,2025-03-25T12:36:57.058135
+P2002,Twitter,user_222,Dune,Just watched Dune! intense great slow bad exciting slow bad great amazing great. #Dune,721,4.0,negative,2025-06-29T12:36:57.058147
+P2003,Reddit,user_601,Inception,What are your thoughts on Inception? exciting confusing exciting well-acted beautiful slow boring exciting amazing amazing intense.,4541,,positive,2024-11-30T12:36:57.058158
+P2004,Twitter,user_693,Avengers Endgame,Just watched Avengers Endgame! amazing intense amazing exciting confusing exciting boring confusing great. #AvengersEndgame,507,8.8,negative,2025-06-20T12:36:57.058169
+P2005,IMDB,user_442,Dune,"Review of Dune: great beautiful well-acted confusing intense slow well-acted exciting exciting intense. Overall, it felt average.",3831,3.7,neutral,2025-01-27T12:36:57.058180
+P2006,IMDB,user_553,Joker,"Review of Joker: exciting exciting intense amazing confusing bad slow beautiful. Overall, it felt disappointing.",2809,,negative,2024-10-04T12:36:57.058197
+P2007,Twitter,user_239,Joker,Just watched Joker! exciting amazing slow exciting exciting slow intense well-acted amazing beautiful beautiful. #Joker,4912,4.8,neutral,2025-05-18T12:36:57.058226
+P2008,YouTube,user_574,Joker,My quick thoughts on Joker: confusing confusing well-acted bad boring exciting slow well-acted bad amazing amazing. More details in full video!,7677,,negative,2024-08-19T12:36:57.058240
+P2009,Twitter,user_796,Inception,Just watched Inception! well-acted well-acted slow confusing confusing boring bad well-acted great confusing bad boring amazing. #Inception,1242,,negative,2025-01-30T12:36:57.058250
+P2010,Twitter,user_91,Oppenheimer,Just watched Oppenheimer! confusing slow well-acted well-acted amazing well-acted exciting exciting. #Oppenheimer,8793,,positive,2024-08-16T12:36:57.058261
+P2011,YouTube,user_25,Dune,My quick thoughts on Dune: intense well-acted beautiful intense well-acted intense. More details in full video!,7745,2.6,neutral,2024-08-10T12:36:57.058269
+P2012,YouTube,user_376,Dune,My quick thoughts on Dune: beautiful boring amazing beautiful amazing bad great amazing beautiful bad confusing beautiful confusing. More details in full video!,1089,,negative,2025-03-08T12:36:57.058280
+P2013,YouTube,user_326,Interstellar,My quick thoughts on Interstellar: boring great bad beautiful confusing intense exciting slow exciting exciting confusing exciting boring. More details in full video!,9632,3.0,neutral,2025-01-18T12:36:57.058289
+P2014,IMDB,user_596,Joker,"Review of Joker: great exciting well-acted boring well-acted boring. Overall, it felt fantastic.",5942,,positive,2025-02-10T12:36:57.058298
+P2015,YouTube,user_227,Interstellar,My quick thoughts on Interstellar: beautiful slow boring boring well-acted boring great well-acted well-acted beautiful intense. More details in full video!,6042,4.0,neutral,2025-02-01T12:36:57.058308
+P2016,Twitter,user_492,Joker,Just watched Joker! intense bad bad great intense confusing beautiful confusing great intense intense well-acted bad amazing. #Joker,723,3.2,neutral,2025-07-22T12:36:57.058319
+P2017,Twitter,user_633,Interstellar,Just watched Interstellar! intense well-acted bad well-acted well-acted intense confusing. #Interstellar,4306,9.7,positive,2025-11-30T12:36:57.058328
+P2018,Reddit,user_326,Oppenheimer,What are your thoughts on Oppenheimer? well-acted amazing intense boring intense beautiful great amazing intense.,352,,neutral,2025-11-15T12:36:57.058337
+P2019,Twitter,user_725,Oppenheimer,Just watched Oppenheimer! exciting confusing confusing slow exciting slow slow. #Oppenheimer,1350,3.8,positive,2024-08-07T12:36:57.058347
+P2020,IMDB,user_702,Joker,"Review of Joker: great slow slow beautiful slow great well-acted intense confusing bad amazing confusing. Overall, it felt fantastic.",2803,,negative,2025-01-15T12:36:57.058358
+P2021,Reddit,user_159,Inception,What are your thoughts on Inception? slow amazing slow boring bad slow great exciting slow exciting boring boring well-acted.,1660,,positive,2025-03-19T12:36:57.058367
+P2022,Twitter,user_267,Dune,Just watched Dune! boring intense slow amazing beautiful bad great intense exciting exciting confusing exciting. #Dune,6860,,positive,2025-05-12T12:36:57.058377
+P2023,Twitter,user_596,Joker,Just watched Joker! beautiful bad boring boring slow well-acted boring beautiful. #Joker,1496,,positive,2025-01-16T12:36:57.058386
+P2024,Twitter,user_365,Avengers Endgame,Just watched Avengers Endgame! confusing bad intense confusing beautiful exciting boring amazing slow well-acted. #AvengersEndgame,5053,8.9,negative,2025-06-10T12:36:57.058395
+P2025,Reddit,user_240,Joker,What are your thoughts on Joker? beautiful bad great great slow amazing.,4783,4.8,neutral,2024-07-26T12:36:57.058405
+P2026,Twitter,user_329,Inception,Just watched Inception! beautiful confusing intense boring great intense confusing slow bad confusing slow. #Inception,1666,,negative,2025-09-08T12:36:57.058419
+P2027,YouTube,user_45,Joker,My quick thoughts on Joker: exciting amazing well-acted exciting boring slow amazing exciting great confusing exciting. More details in full video!,7076,,negative,2025-07-29T12:36:57.058435
+P2028,IMDB,user_315,Joker,"Review of Joker: intense confusing intense beautiful intense exciting slow well-acted amazing bad boring well-acted exciting bad. Overall, it felt average.",1206,2.7,negative,2024-09-20T12:36:57.058460
+P2029,Twitter,user_178,Inception,Just watched Inception! well-acted beautiful boring confusing amazing great bad intense bad amazing bad boring confusing intense. #Inception,8839,5.6,positive,2025-09-21T12:36:57.058469
+P2030,Twitter,user_218,Joker,Just watched Joker! intense confusing boring amazing bad slow beautiful amazing great amazing confusing. #Joker,6906,,neutral,2025-09-18T12:36:57.058478
+P2031,YouTube,user_170,Joker,My quick thoughts on Joker: beautiful great bad intense great intense boring confusing exciting slow beautiful intense bad. More details in full video!,4116,3.7,positive,2024-08-22T12:36:57.058488
+P2032,Reddit,user_586,Oppenheimer,What are your thoughts on Oppenheimer? great well-acted amazing intense exciting well-acted boring amazing great slow exciting boring exciting great.,4870,,neutral,2025-04-24T12:36:57.058498
+P2033,Twitter,user_114,Avengers Endgame,Just watched Avengers Endgame! intense intense boring beautiful exciting intense bad great confusing beautiful beautiful. #AvengersEndgame,3938,1.9,neutral,2024-10-19T12:36:57.058514
+P2034,Twitter,user_476,Avengers Endgame,Just watched Avengers Endgame! amazing beautiful boring bad great bad. #AvengersEndgame,4922,9.6,neutral,2025-10-02T12:36:57.058526
+P2035,YouTube,user_398,Dune,My quick thoughts on Dune: bad beautiful amazing confusing beautiful boring intense. More details in full video!,3909,,positive,2025-07-13T12:36:57.058535
+P2036,YouTube,user_550,Inception,My quick thoughts on Inception: bad amazing exciting slow bad boring well-acted boring well-acted intense intense. More details in full video!,7805,,positive,2025-01-18T12:36:57.058544
+P2037,YouTube,user_615,Joker,My quick thoughts on Joker: beautiful confusing great confusing intense well-acted slow exciting intense. More details in full video!,890,,negative,2025-04-21T12:36:57.058554
+P2038,IMDB,user_648,Dune,"Review of Dune: confusing slow confusing amazing bad beautiful. Overall, it felt average.",1133,3.0,positive,2025-11-03T12:36:57.058563
+P2039,IMDB,user_20,Inception,"Review of Inception: confusing amazing slow boring boring bad intense. Overall, it felt disappointing.",1767,2.1,negative,2025-06-26T12:36:57.058572
+P2040,Twitter,user_624,Oppenheimer,Just watched Oppenheimer! great beautiful boring well-acted slow bad beautiful confusing. #Oppenheimer,5304,,negative,2025-11-04T12:36:57.058582
+P2041,IMDB,user_281,Avengers Endgame,"Review of Avengers Endgame: slow well-acted well-acted confusing boring amazing amazing amazing confusing. Overall, it felt average.",3184,,neutral,2024-11-10T12:36:57.058591
+P2042,IMDB,user_557,Interstellar,"Review of Interstellar: intense bad boring beautiful exciting well-acted slow boring bad beautiful great amazing beautiful confusing. Overall, it felt average.",6863,1.8,positive,2025-03-27T12:36:57.058601
+P2043,YouTube,user_482,Joker,My quick thoughts on Joker: intense beautiful confusing slow exciting confusing beautiful boring confusing. More details in full video!,845,6.5,negative,2025-07-31T12:36:57.058609
+P2044,Twitter,user_4,Joker,Just watched Joker! bad slow well-acted intense intense exciting intense boring. #Joker,8336,,negative,2025-04-17T12:36:57.058618
+P2045,IMDB,user_623,Inception,"Review of Inception: intense boring slow slow amazing well-acted great beautiful intense exciting great great. Overall, it felt fantastic.",7981,,positive,2025-09-22T12:36:57.058627
+P2046,YouTube,user_414,Inception,My quick thoughts on Inception: intense boring slow well-acted slow bad slow great intense intense bad amazing. More details in full video!,4070,4.0,neutral,2025-02-14T12:36:57.058636
+P2047,Twitter,user_307,Oppenheimer,Just watched Oppenheimer! great amazing intense amazing bad well-acted confusing confusing boring bad bad confusing amazing. #Oppenheimer,7927,,positive,2025-09-12T12:36:57.058645
+P2048,YouTube,user_600,Inception,My quick thoughts on Inception: exciting amazing boring intense exciting bad well-acted great. More details in full video!,2736,1.7,negative,2025-04-05T12:36:57.058654
+P2049,Reddit,user_543,Joker,What are your thoughts on Joker? bad well-acted beautiful confusing well-acted beautiful exciting well-acted slow well-acted slow slow.,9405,,positive,2025-08-13T12:36:57.058663
+P2050,Twitter,user_370,Oppenheimer,Just watched Oppenheimer! amazing boring confusing bad confusing amazing well-acted. #Oppenheimer,2636,,negative,2025-10-13T12:36:57.058671
+P2051,YouTube,user_194,Interstellar,My quick thoughts on Interstellar: bad bad confusing exciting bad boring bad amazing exciting bad well-acted confusing. More details in full video!,3998,1.5,neutral,2025-01-07T12:36:57.058680
+P2052,YouTube,user_723,Joker,My quick thoughts on Joker: bad boring exciting amazing confusing boring confusing exciting. More details in full video!,2114,,negative,2025-05-04T12:36:57.058689
+P2053,Twitter,user_145,Interstellar,Just watched Interstellar! confusing amazing amazing intense well-acted exciting confusing boring bad beautiful. #Interstellar,73,6.3,negative,2024-12-13T12:36:57.058699
+P2054,Reddit,user_531,Dune,What are your thoughts on Dune? great exciting intense intense intense amazing great beautiful well-acted great slow slow.,2387,,positive,2025-10-24T12:36:57.058708
+P2055,IMDB,user_80,Avengers Endgame,"Review of Avengers Endgame: slow exciting exciting great well-acted bad well-acted bad well-acted. Overall, it felt fantastic.",2526,,negative,2025-03-02T12:36:57.058717
+P2056,YouTube,user_627,Dune,My quick thoughts on Dune: exciting well-acted confusing confusing bad confusing slow amazing boring. More details in full video!,4779,,neutral,2025-06-25T12:36:57.058725
+P2057,Twitter,user_35,Joker,Just watched Joker! bad intense boring beautiful intense great intense bad intense great great intense boring. #Joker,786,7.7,neutral,2025-02-08T12:36:57.058734
+P2058,Twitter,user_407,Interstellar,Just watched Interstellar! beautiful beautiful boring bad bad great boring confusing exciting. #Interstellar,8416,8.9,positive,2025-02-13T12:36:57.058742
+P2059,Reddit,user_222,Oppenheimer,What are your thoughts on Oppenheimer? intense amazing exciting well-acted slow well-acted great well-acted boring intense.,4747,6.4,neutral,2025-03-04T12:36:57.058752
+P2060,Reddit,user_768,Avengers Endgame,What are your thoughts on Avengers Endgame? amazing well-acted exciting slow boring intense exciting well-acted.,2590,4.8,positive,2024-11-28T12:36:57.058761
+P2061,Reddit,user_600,Avengers Endgame,What are your thoughts on Avengers Endgame? exciting well-acted exciting beautiful intense intense amazing.,2865,,positive,2024-07-28T12:36:57.058770
+P2062,IMDB,user_73,Inception,"Review of Inception: great slow exciting slow boring beautiful boring confusing confusing bad confusing bad exciting. Overall, it felt disappointing.",672,,positive,2025-03-22T12:36:57.058779
+P2063,IMDB,user_178,Avengers Endgame,"Review of Avengers Endgame: beautiful beautiful amazing great exciting exciting confusing boring bad well-acted confusing great great intense. Overall, it felt average.",1591,,neutral,2024-12-14T12:36:57.058788
+P2064,IMDB,user_799,Interstellar,"Review of Interstellar: intense confusing well-acted well-acted boring great boring bad well-acted exciting bad exciting beautiful. Overall, it felt fantastic.",6321,8.9,negative,2024-08-16T12:36:57.058798
+P2065,Twitter,user_500,Joker,Just watched Joker! great bad boring great intense beautiful well-acted bad beautiful confusing. #Joker,525,,negative,2025-07-24T12:36:57.058809
+P2066,Reddit,user_265,Avengers Endgame,What are your thoughts on Avengers Endgame? well-acted great confusing slow bad amazing intense well-acted slow exciting well-acted intense great.,3930,,neutral,2024-09-12T12:36:57.058830
+P2067,IMDB,user_10,Interstellar,"Review of Interstellar: great well-acted exciting bad boring boring confusing. Overall, it felt disappointing.",6605,,neutral,2025-09-20T12:36:57.058841
+P2068,YouTube,user_607,Inception,My quick thoughts on Inception: great great exciting slow confusing beautiful boring well-acted confusing boring great bad beautiful beautiful. More details in full video!,8315,6.3,negative,2025-01-04T12:36:57.058850
+P2069,Reddit,user_285,Interstellar,What are your thoughts on Interstellar? amazing boring beautiful bad bad boring boring well-acted great bad slow boring amazing boring.,3442,2.2,positive,2025-03-22T12:36:57.058859
+P2070,IMDB,user_344,Oppenheimer,"Review of Oppenheimer: intense beautiful intense well-acted boring exciting confusing. Overall, it felt fantastic.",4003,5.5,negative,2024-11-19T12:36:57.058868
+P2071,YouTube,user_672,Avengers Endgame,My quick thoughts on Avengers Endgame: amazing slow great bad great well-acted. More details in full video!,5506,5.0,positive,2025-01-28T12:36:57.058876
+P2072,Twitter,user_486,Dune,Just watched Dune! well-acted confusing amazing boring slow slow intense boring great bad exciting confusing beautiful amazing. #Dune,1980,8.7,negative,2024-12-11T12:36:57.058885
+P2073,YouTube,user_287,Interstellar,My quick thoughts on Interstellar: intense great intense intense boring slow bad slow boring well-acted. More details in full video!,773,,positive,2024-12-06T12:36:57.058894
+P2074,Twitter,user_21,Oppenheimer,Just watched Oppenheimer! beautiful bad amazing well-acted bad intense great slow beautiful slow confusing exciting bad. #Oppenheimer,7189,,negative,2025-03-25T12:36:57.058903
+P2075,Reddit,user_586,Oppenheimer,What are your thoughts on Oppenheimer? beautiful well-acted beautiful confusing great exciting slow intense bad confusing confusing intense beautiful exciting.,7301,,negative,2024-09-15T12:36:57.058912
+P2076,YouTube,user_592,Interstellar,My quick thoughts on Interstellar: beautiful great confusing well-acted great exciting beautiful boring slow great well-acted slow. More details in full video!,9824,6.9,positive,2024-11-21T12:36:57.058922
+P2077,Twitter,user_177,Interstellar,Just watched Interstellar! bad boring beautiful amazing bad amazing confusing amazing amazing. #Interstellar,5092,,neutral,2024-12-22T12:36:57.058930
+P2078,IMDB,user_205,Inception,"Review of Inception: beautiful beautiful intense slow great slow intense. Overall, it felt average.",8531,6.0,neutral,2025-02-05T12:36:57.058940
+P2079,Reddit,user_744,Interstellar,What are your thoughts on Interstellar? great well-acted amazing exciting bad confusing boring slow great exciting.,474,2.5,positive,2025-03-19T12:36:57.058949
+P2080,Reddit,user_608,Joker,What are your thoughts on Joker? beautiful slow slow amazing amazing amazing.,6066,8.5,neutral,2024-08-12T12:36:57.058957
+P2081,Reddit,user_468,Oppenheimer,What are your thoughts on Oppenheimer? bad boring beautiful well-acted exciting confusing great intense confusing great amazing great great.,8205,5.4,neutral,2025-07-11T12:36:57.058967
+P2082,Twitter,user_685,Avengers Endgame,Just watched Avengers Endgame! boring well-acted boring beautiful slow confusing great slow amazing beautiful confusing confusing boring exciting. #AvengersEndgame,8791,,negative,2025-11-11T12:36:57.058982
+P2083,IMDB,user_105,Joker,"Review of Joker: beautiful exciting confusing great great bad bad. Overall, it felt average.",410,,positive,2025-01-10T12:36:57.059003
+P2084,Twitter,user_147,Inception,Just watched Inception! well-acted exciting slow confusing confusing great intense boring boring boring bad well-acted slow. #Inception,9538,,negative,2025-02-04T12:36:57.059013
+P2085,IMDB,user_89,Avengers Endgame,"Review of Avengers Endgame: great boring bad bad confusing intense boring intense exciting bad confusing great slow slow. Overall, it felt disappointing.",7724,3.6,neutral,2024-08-17T12:36:57.059022
+P2086,YouTube,user_769,Dune,My quick thoughts on Dune: beautiful well-acted great slow slow boring well-acted great well-acted slow bad amazing. More details in full video!,9755,9.5,neutral,2025-03-24T12:36:57.059031
+P2087,IMDB,user_383,Oppenheimer,"Review of Oppenheimer: bad great boring well-acted boring great great intense. Overall, it felt fantastic.",5600,,negative,2025-10-29T12:36:57.059040
+P2088,YouTube,user_43,Interstellar,My quick thoughts on Interstellar: beautiful intense amazing exciting exciting amazing. More details in full video!,4995,,neutral,2024-11-15T12:36:57.059048
+P2089,IMDB,user_132,Inception,"Review of Inception: amazing amazing beautiful beautiful amazing amazing intense amazing intense amazing amazing. Overall, it felt fantastic.",9969,,positive,2025-11-26T12:36:57.059057
+P2090,IMDB,user_575,Oppenheimer,"Review of Oppenheimer: well-acted great exciting boring beautiful confusing great. Overall, it felt disappointing.",7878,,neutral,2025-11-14T12:36:57.059067
+P2091,YouTube,user_724,Joker,My quick thoughts on Joker: well-acted beautiful great great confusing well-acted slow well-acted beautiful amazing intense. More details in full video!,8581,,negative,2024-09-07T12:36:57.059075
+P2092,Reddit,user_635,Joker,What are your thoughts on Joker? beautiful bad exciting slow great beautiful beautiful boring boring exciting confusing slow.,4051,,neutral,2025-04-09T12:36:57.059084
+P2093,Reddit,user_787,Avengers Endgame,What are your thoughts on Avengers Endgame? bad amazing amazing beautiful great slow beautiful intense.,2604,1.1,negative,2025-02-14T12:36:57.059092
+P2094,Twitter,user_581,Dune,Just watched Dune! well-acted exciting confusing confusing great bad great well-acted boring beautiful exciting boring bad confusing. #Dune,7140,1.7,neutral,2025-06-04T12:36:57.059102
+P2095,Twitter,user_222,Interstellar,Just watched Interstellar! confusing well-acted exciting exciting confusing confusing well-acted exciting slow beautiful amazing. #Interstellar,5080,4.5,neutral,2025-10-06T12:36:57.059111
+P2096,Twitter,user_212,Inception,Just watched Inception! intense exciting beautiful slow bad confusing exciting boring confusing confusing. #Inception,651,6.6,positive,2025-08-11T12:36:57.059119
+P2097,IMDB,user_210,Dune,"Review of Dune: exciting amazing great bad great boring beautiful amazing confusing bad amazing intense. Overall, it felt disappointing.",8610,,neutral,2025-10-17T12:36:57.059128
+P2098,YouTube,user_169,Avengers Endgame,My quick thoughts on Avengers Endgame: intense amazing exciting exciting confusing boring slow. More details in full video!,7467,7.5,positive,2025-08-26T12:36:57.059136
+P2099,Twitter,user_371,Inception,Just watched Inception! great boring boring great slow boring well-acted intense boring exciting intense well-acted great. #Inception,1189,7.1,neutral,2025-06-14T12:36:57.059145
+P2100,Reddit,user_635,Interstellar,What are your thoughts on Interstellar? bad amazing exciting beautiful exciting intense bad.,1804,1.9,positive,2025-03-08T12:36:57.059153
+P2101,Twitter,user_703,Oppenheimer,Just watched Oppenheimer! beautiful well-acted bad slow intense intense exciting boring exciting amazing. #Oppenheimer,9910,,neutral,2024-07-27T12:36:57.059162
+P2102,IMDB,user_219,Oppenheimer,"Review of Oppenheimer: intense exciting boring well-acted bad intense slow exciting. Overall, it felt average.",8258,,negative,2025-02-08T12:36:57.059171
+P2103,YouTube,user_661,Dune,My quick thoughts on Dune: slow beautiful confusing great slow confusing. More details in full video!,2831,,positive,2025-04-12T12:36:57.059180
+P2104,Twitter,user_338,Avengers Endgame,Just watched Avengers Endgame! amazing intense confusing beautiful great exciting slow well-acted bad exciting intense great. #AvengersEndgame,1023,3.8,positive,2024-11-05T12:36:57.059188
+P2105,YouTube,user_592,Inception,My quick thoughts on Inception: bad confusing amazing confusing beautiful confusing amazing intense confusing bad boring boring well-acted. More details in full video!,9116,,negative,2024-09-30T12:36:57.059197
+P2106,YouTube,user_719,Avengers Endgame,My quick thoughts on Avengers Endgame: great bad exciting slow slow well-acted well-acted exciting confusing well-acted. More details in full video!,9310,,neutral,2024-10-09T12:36:57.059208
+P2107,Twitter,user_520,Joker,Just watched Joker! bad amazing bad bad confusing beautiful. #Joker,9336,,neutral,2024-12-02T12:36:57.059223
+P2108,Twitter,user_717,Avengers Endgame,Just watched Avengers Endgame! beautiful bad bad exciting well-acted beautiful well-acted great well-acted amazing well-acted. #AvengersEndgame,7007,,neutral,2025-04-30T12:36:57.059232
+P2109,Reddit,user_528,Joker,What are your thoughts on Joker? amazing great boring great beautiful well-acted intense slow slow exciting great beautiful.,6885,8.7,negative,2024-09-10T12:36:57.059241
+P2110,YouTube,user_646,Interstellar,My quick thoughts on Interstellar: beautiful exciting intense great great beautiful boring beautiful well-acted boring well-acted boring. More details in full video!,4792,,negative,2025-06-09T12:36:57.059250
+P2111,Twitter,user_524,Interstellar,Just watched Interstellar! intense great well-acted exciting slow bad bad bad. #Interstellar,3783,,positive,2025-11-11T12:36:57.059259
+P2112,YouTube,user_683,Joker,My quick thoughts on Joker: amazing slow bad exciting well-acted bad bad exciting beautiful beautiful beautiful exciting bad. More details in full video!,1797,2.5,neutral,2025-09-09T12:36:57.059269
+P2113,Reddit,user_324,Inception,What are your thoughts on Inception? intense amazing beautiful amazing great beautiful well-acted confusing.,1662,5.8,negative,2025-04-25T12:36:57.059278
+P2114,Reddit,user_333,Oppenheimer,What are your thoughts on Oppenheimer? beautiful well-acted well-acted confusing slow boring.,9492,9.8,neutral,2024-09-01T12:36:57.059288
+P2115,Reddit,user_288,Joker,What are your thoughts on Joker? confusing boring bad confusing great boring amazing intense confusing.,9992,6.9,neutral,2025-09-19T12:36:57.059296
+P2116,YouTube,user_20,Interstellar,My quick thoughts on Interstellar: intense beautiful beautiful intense beautiful intense. More details in full video!,3622,9.2,neutral,2024-07-25T12:36:57.059305
+P2117,Reddit,user_420,Avengers Endgame,What are your thoughts on Avengers Endgame? well-acted well-acted exciting confusing intense slow confusing amazing.,9082,,neutral,2024-11-27T12:36:57.059313
+P2118,Reddit,user_141,Oppenheimer,What are your thoughts on Oppenheimer? amazing boring amazing well-acted intense beautiful intense intense.,3579,,positive,2024-11-10T12:36:57.059461
+P2119,Twitter,user_677,Avengers Endgame,Just watched Avengers Endgame! slow slow confusing slow amazing slow intense beautiful. #AvengersEndgame,729,8.6,neutral,2025-01-28T12:36:57.059473
+P2120,Twitter,user_365,Joker,Just watched Joker! intense beautiful bad boring great bad exciting. #Joker,5083,,positive,2025-01-09T12:36:57.059484
+P2121,Twitter,user_365,Joker,Just watched Joker! beautiful great intense great boring slow great. #Joker,2164,,neutral,2024-11-11T12:36:57.059498
+P2122,IMDB,user_754,Dune,"Review of Dune: amazing exciting boring beautiful well-acted well-acted bad great beautiful bad intense intense. Overall, it felt fantastic.",6590,,positive,2025-06-02T12:36:57.059517
+P2123,Reddit,user_230,Dune,What are your thoughts on Dune? boring slow slow intense bad confusing great slow well-acted beautiful intense confusing.,427,9.3,neutral,2025-07-16T12:36:57.059527
+P2124,YouTube,user_505,Avengers Endgame,My quick thoughts on Avengers Endgame: boring confusing intense beautiful confusing beautiful. More details in full video!,1296,,neutral,2024-11-07T12:36:57.059536
+P2125,Reddit,user_294,Inception,What are your thoughts on Inception? confusing well-acted amazing great exciting bad exciting confusing confusing beautiful well-acted confusing.,9410,,negative,2025-09-30T12:36:57.059544
+P2126,YouTube,user_640,Oppenheimer,My quick thoughts on Oppenheimer: amazing beautiful great confusing beautiful great well-acted exciting beautiful confusing well-acted great. More details in full video!,8273,,negative,2024-12-20T12:36:57.059553
+P2127,Reddit,user_583,Dune,What are your thoughts on Dune? confusing confusing boring bad well-acted well-acted amazing well-acted boring well-acted exciting.,3308,9.0,neutral,2024-10-07T12:36:57.059564
+P2128,Twitter,user_15,Dune,Just watched Dune! intense great great confusing slow boring amazing intense well-acted boring amazing exciting boring intense. #Dune,1941,1.5,negative,2025-04-07T12:36:57.059591
+P2129,YouTube,user_454,Avengers Endgame,My quick thoughts on Avengers Endgame: exciting well-acted confusing well-acted great great. More details in full video!,5220,3.9,neutral,2025-09-12T12:36:57.059600
+P2130,Twitter,user_100,Avengers Endgame,Just watched Avengers Endgame! confusing intense beautiful slow exciting exciting intense intense well-acted intense boring great well-acted. #AvengersEndgame,2655,6.9,negative,2024-11-03T12:36:57.059609
+P2131,YouTube,user_417,Oppenheimer,My quick thoughts on Oppenheimer: boring slow exciting well-acted boring amazing beautiful exciting beautiful bad confusing intense slow. More details in full video!,4469,,negative,2024-09-17T12:36:57.059619
+P2132,Reddit,user_496,Joker,What are your thoughts on Joker? great confusing exciting well-acted intense well-acted slow confusing amazing.,1644,,neutral,2025-10-30T12:36:57.059627
+P2133,Reddit,user_612,Joker,What are your thoughts on Joker? amazing exciting great beautiful slow beautiful well-acted.,5074,,positive,2025-05-17T12:36:57.059636
+P2134,Twitter,user_584,Interstellar,Just watched Interstellar! great beautiful intense confusing boring boring beautiful amazing slow well-acted confusing beautiful exciting beautiful. #Interstellar,160,5.6,negative,2024-11-08T12:36:57.059646
+P2135,Reddit,user_710,Oppenheimer,What are your thoughts on Oppenheimer? beautiful great confusing beautiful slow amazing.,9425,4.7,positive,2024-08-29T12:36:57.059654
+P2136,Twitter,user_590,Avengers Endgame,Just watched Avengers Endgame! well-acted intense intense exciting bad confusing. #AvengersEndgame,8246,9.1,neutral,2024-12-11T12:36:57.059664
+P2137,Twitter,user_485,Oppenheimer,Just watched Oppenheimer! boring boring beautiful well-acted exciting amazing intense. #Oppenheimer,8742,,positive,2024-11-09T12:36:57.059672
+P2138,IMDB,user_130,Oppenheimer,"Review of Oppenheimer: slow great intense exciting exciting exciting boring confusing intense amazing boring. Overall, it felt fantastic.",6508,,neutral,2025-11-11T12:36:57.059681
+P2139,Reddit,user_705,Joker,What are your thoughts on Joker? intense exciting slow boring bad exciting great great.,5571,4.0,positive,2025-08-14T12:36:57.059689
+P2140,Reddit,user_125,Oppenheimer,What are your thoughts on Oppenheimer? slow beautiful beautiful well-acted great amazing beautiful well-acted bad.,9772,,negative,2024-08-30T12:36:57.059698
+P2141,Twitter,user_574,Dune,Just watched Dune! confusing great confusing amazing bad boring great confusing slow great slow beautiful confusing. #Dune,6099,3.9,neutral,2025-05-24T12:36:57.059706
+P2142,Twitter,user_12,Inception,Just watched Inception! beautiful intense bad boring amazing intense great confusing beautiful confusing bad exciting. #Inception,2896,8.5,neutral,2024-08-23T12:36:57.059715
+P2143,YouTube,user_437,Dune,My quick thoughts on Dune: beautiful confusing amazing slow confusing boring great beautiful beautiful boring intense. More details in full video!,6243,,neutral,2025-03-05T12:36:57.059724
+P2144,Twitter,user_425,Interstellar,Just watched Interstellar! boring bad intense confusing beautiful well-acted intense amazing intense intense great. #Interstellar,5203,,positive,2024-11-04T12:36:57.059732
+P2145,Reddit,user_472,Inception,What are your thoughts on Inception? great well-acted bad beautiful great confusing exciting beautiful great confusing.,96,5.9,positive,2025-03-24T12:36:57.059741
+P2146,YouTube,user_685,Oppenheimer,My quick thoughts on Oppenheimer: amazing great beautiful well-acted boring amazing confusing great. More details in full video!,8617,3.1,neutral,2025-01-27T12:36:57.059749
+P2147,Twitter,user_580,Dune,Just watched Dune! intense exciting intense well-acted exciting bad slow well-acted beautiful intense boring well-acted beautiful amazing. #Dune,3572,,positive,2025-07-09T12:36:57.059758
+P2148,IMDB,user_2,Interstellar,"Review of Interstellar: boring slow confusing intense great slow confusing bad amazing exciting amazing slow intense beautiful. Overall, it felt fantastic.",132,,neutral,2025-01-26T12:36:57.059767
+P2149,YouTube,user_483,Inception,My quick thoughts on Inception: intense bad well-acted beautiful confusing well-acted bad great great boring. More details in full video!,3626,4.2,positive,2025-06-21T12:36:57.059777
+P2150,IMDB,user_221,Avengers Endgame,"Review of Avengers Endgame: great bad exciting beautiful slow great great amazing amazing. Overall, it felt fantastic.",4019,,negative,2025-04-21T12:36:57.059786
+P2151,YouTube,user_439,Oppenheimer,My quick thoughts on Oppenheimer: well-acted boring slow amazing boring amazing slow confusing confusing confusing intense intense. More details in full video!,2284,4.5,neutral,2025-11-14T12:36:57.059795
+P2152,YouTube,user_6,Oppenheimer,My quick thoughts on Oppenheimer: slow slow beautiful boring boring well-acted beautiful exciting well-acted boring boring well-acted. More details in full video!,1729,7.4,negative,2025-10-14T12:36:57.059804
+P2153,Twitter,user_423,Avengers Endgame,Just watched Avengers Endgame! amazing beautiful beautiful intense well-acted confusing intense confusing confusing. #AvengersEndgame,78,,neutral,2025-04-04T12:36:57.059815
+P2154,Twitter,user_62,Avengers Endgame,Just watched Avengers Endgame! great beautiful amazing great great slow slow bad. #AvengersEndgame,4188,6.0,negative,2024-10-30T12:36:57.059823
+P2155,Twitter,user_678,Inception,Just watched Inception! slow confusing confusing amazing amazing bad. #Inception,831,9.9,neutral,2025-10-07T12:36:57.059832
+P2156,IMDB,user_683,Avengers Endgame,"Review of Avengers Endgame: amazing beautiful slow exciting exciting amazing slow confusing intense slow confusing. Overall, it felt fantastic.",1016,1.7,negative,2025-06-14T12:36:57.059841
+P2157,IMDB,user_357,Oppenheimer,"Review of Oppenheimer: bad boring intense confusing slow beautiful intense slow intense. Overall, it felt average.",2592,2.8,positive,2025-08-23T12:36:57.059849
+P2158,Twitter,user_257,Inception,Just watched Inception! amazing boring beautiful bad amazing intense beautiful amazing boring. #Inception,1238,4.2,negative,2025-04-29T12:36:57.059858
+P2159,YouTube,user_710,Joker,My quick thoughts on Joker: intense intense well-acted slow boring amazing slow great slow exciting intense. More details in full video!,8839,8.7,negative,2025-03-28T12:36:57.059867
+P2160,Twitter,user_372,Interstellar,Just watched Interstellar! beautiful boring beautiful amazing confusing boring exciting intense confusing bad. #Interstellar,3740,,negative,2025-09-22T12:36:57.059882
+P2161,IMDB,user_533,Interstellar,"Review of Interstellar: bad confusing well-acted beautiful intense boring beautiful. Overall, it felt average.",3460,,negative,2024-10-13T12:36:57.059893
+P2162,Reddit,user_776,Avengers Endgame,What are your thoughts on Avengers Endgame? boring confusing amazing intense intense intense amazing bad bad intense beautiful beautiful beautiful.,9657,,neutral,2024-09-01T12:36:57.059902
+P2163,IMDB,user_730,Dune,"Review of Dune: amazing boring bad bad amazing beautiful. Overall, it felt disappointing.",9301,,positive,2025-06-25T12:36:57.059912
+P2164,Reddit,user_684,Joker,What are your thoughts on Joker? beautiful exciting bad well-acted exciting well-acted slow confusing amazing boring boring beautiful slow.,1172,6.2,negative,2024-12-30T12:36:57.059920
+P2165,YouTube,user_468,Interstellar,My quick thoughts on Interstellar: exciting amazing well-acted intense beautiful amazing slow amazing slow amazing boring beautiful intense well-acted. More details in full video!,9854,2.3,positive,2025-11-25T12:36:57.059929
+P2166,IMDB,user_292,Interstellar,"Review of Interstellar: well-acted boring intense great beautiful exciting amazing boring intense intense slow well-acted. Overall, it felt fantastic.",9018,3.9,positive,2025-04-27T12:36:57.059939
+P2167,IMDB,user_188,Inception,"Review of Inception: confusing confusing beautiful confusing exciting amazing. Overall, it felt disappointing.",7652,,negative,2024-08-30T12:36:57.059948
+P2168,YouTube,user_569,Inception,My quick thoughts on Inception: amazing well-acted amazing great confusing boring exciting bad. More details in full video!,4064,2.0,negative,2024-08-20T12:36:57.059956
+P2169,IMDB,user_560,Joker,"Review of Joker: well-acted confusing boring amazing well-acted confusing intense well-acted confusing bad. Overall, it felt disappointing.",9376,,neutral,2024-08-13T12:36:57.059965
+P2170,Twitter,user_656,Oppenheimer,Just watched Oppenheimer! intense great boring boring amazing great slow boring bad slow intense bad great. #Oppenheimer,4501,,negative,2025-06-20T12:36:57.059974
+P2171,IMDB,user_187,Oppenheimer,"Review of Oppenheimer: intense beautiful intense intense amazing intense great bad boring beautiful. Overall, it felt disappointing.",4669,,negative,2024-12-27T12:36:57.059983
+P2172,Twitter,user_61,Avengers Endgame,Just watched Avengers Endgame! intense boring boring confusing exciting exciting boring exciting confusing amazing. #AvengersEndgame,4459,9.2,negative,2025-01-19T12:36:57.059992
+P2173,Twitter,user_411,Joker,Just watched Joker! well-acted well-acted bad beautiful well-acted bad slow slow bad beautiful confusing bad. #Joker,2536,5.9,neutral,2025-05-28T12:36:57.060001
+P2174,IMDB,user_741,Oppenheimer,"Review of Oppenheimer: slow slow exciting beautiful slow beautiful. Overall, it felt fantastic.",6375,8.7,neutral,2024-12-10T12:36:57.060011
+P2175,IMDB,user_691,Interstellar,"Review of Interstellar: amazing great great exciting slow exciting well-acted. Overall, it felt average.",4138,,neutral,2024-12-04T12:36:57.060019
+P2176,Reddit,user_272,Inception,What are your thoughts on Inception? bad amazing well-acted well-acted great confusing slow great great exciting slow beautiful slow well-acted.,3069,,negative,2025-10-12T12:36:57.060029
+P2177,Reddit,user_364,Avengers Endgame,What are your thoughts on Avengers Endgame? well-acted great well-acted well-acted great exciting.,5921,7.9,neutral,2024-12-29T12:36:57.060037
+P2178,IMDB,user_403,Inception,"Review of Inception: great exciting well-acted amazing beautiful slow great confusing bad slow. Overall, it felt disappointing.",1414,,neutral,2025-03-19T12:36:57.060051
+P2179,Twitter,user_711,Inception,Just watched Inception! great boring beautiful intense exciting beautiful intense great boring amazing. #Inception,5771,1.6,negative,2025-05-27T12:36:57.060075
+P2180,IMDB,user_527,Inception,"Review of Inception: intense exciting intense well-acted confusing beautiful amazing beautiful amazing well-acted beautiful slow boring great. Overall, it felt fantastic.",4122,6.3,neutral,2025-09-08T12:36:57.060085
+P2181,YouTube,user_699,Joker,My quick thoughts on Joker: exciting beautiful intense confusing great exciting intense well-acted. More details in full video!,8282,,positive,2025-09-27T12:36:57.060093
+P2182,Reddit,user_697,Inception,What are your thoughts on Inception? beautiful slow great beautiful beautiful bad exciting well-acted exciting amazing great confusing.,609,3.9,negative,2025-03-08T12:36:57.060102
+P2183,YouTube,user_169,Interstellar,My quick thoughts on Interstellar: boring well-acted beautiful great bad beautiful. More details in full video!,1905,,positive,2025-08-08T12:36:57.060110
+P2184,Reddit,user_25,Interstellar,What are your thoughts on Interstellar? confusing bad confusing slow amazing amazing slow well-acted intense beautiful.,2222,,positive,2025-04-11T12:36:57.060119
+P2185,Reddit,user_74,Inception,What are your thoughts on Inception? boring great great exciting bad exciting beautiful great exciting boring amazing slow amazing intense.,3924,9.4,positive,2024-08-19T12:36:57.060128
+P2186,IMDB,user_493,Dune,"Review of Dune: exciting confusing intense great slow confusing beautiful beautiful. Overall, it felt average.",4458,4.5,negative,2025-11-20T12:36:57.060137
+P2187,YouTube,user_397,Interstellar,My quick thoughts on Interstellar: bad confusing bad amazing beautiful confusing bad. More details in full video!,4505,7.4,neutral,2025-05-08T12:36:57.060145
+P2188,Reddit,user_134,Dune,What are your thoughts on Dune? intense well-acted confusing slow slow amazing great beautiful well-acted slow exciting beautiful intense confusing.,7506,,negative,2025-09-15T12:36:57.060154
+P2189,Reddit,user_536,Inception,What are your thoughts on Inception? confusing exciting intense amazing bad well-acted great exciting amazing.,9269,,neutral,2025-04-10T12:36:57.060162
+P2190,Reddit,user_467,Inception,What are your thoughts on Inception? boring great boring bad bad confusing intense amazing slow.,7599,,neutral,2025-05-09T12:36:57.060170
+P2191,Reddit,user_529,Oppenheimer,What are your thoughts on Oppenheimer? bad beautiful slow intense slow bad slow slow bad bad amazing beautiful.,964,,neutral,2025-03-10T12:36:57.060179
+P2192,IMDB,user_206,Joker,"Review of Joker: beautiful well-acted confusing bad boring boring intense boring well-acted beautiful. Overall, it felt fantastic.",2823,3.9,negative,2024-09-21T12:36:57.060188
+P2193,YouTube,user_614,Avengers Endgame,My quick thoughts on Avengers Endgame: slow slow boring exciting great amazing intense amazing bad. More details in full video!,9273,,negative,2024-10-19T12:36:57.060197
+P2194,Reddit,user_503,Joker,What are your thoughts on Joker? intense bad beautiful boring confusing beautiful amazing beautiful well-acted.,3984,,negative,2024-09-13T12:36:57.060205
+P2195,Twitter,user_640,Interstellar,Just watched Interstellar! beautiful great amazing confusing bad slow beautiful intense boring exciting. #Interstellar,7691,4.7,negative,2024-07-26T12:36:57.060214
+P2196,IMDB,user_253,Avengers Endgame,"Review of Avengers Endgame: amazing bad intense exciting exciting intense bad well-acted. Overall, it felt disappointing.",5641,,negative,2024-11-26T12:36:57.060223
+P2197,YouTube,user_257,Inception,My quick thoughts on Inception: confusing intense beautiful amazing intense intense confusing amazing bad great boring. More details in full video!,307,3.3,positive,2025-10-11T12:36:57.060231
+P2198,Twitter,user_472,Dune,Just watched Dune! exciting well-acted well-acted great beautiful amazing intense great well-acted amazing boring boring. #Dune,368,3.5,negative,2025-08-20T12:36:57.060240
+P2199,YouTube,user_429,Joker,My quick thoughts on Joker: confusing well-acted intense intense exciting amazing beautiful bad. More details in full video!,4689,,positive,2025-02-22T12:36:57.060249
+P2200,Twitter,user_153,Interstellar,Just watched Interstellar! bad well-acted boring great slow slow exciting well-acted bad. #Interstellar,3004,9.9,positive,2024-09-29T12:36:57.060257
+P2201,Reddit,user_365,Inception,What are your thoughts on Inception? boring well-acted boring bad slow great bad great intense exciting.,914,4.5,neutral,2025-02-21T12:36:57.060268
+P2202,YouTube,user_472,Avengers Endgame,My quick thoughts on Avengers Endgame: slow amazing amazing exciting well-acted intense. More details in full video!,9530,1.4,negative,2024-12-16T12:36:57.060282
+P2203,IMDB,user_724,Oppenheimer,"Review of Oppenheimer: well-acted exciting slow beautiful bad amazing great amazing bad. Overall, it felt average.",1563,4.0,negative,2025-03-12T12:36:57.060294
+P2204,IMDB,user_747,Avengers Endgame,"Review of Avengers Endgame: exciting beautiful amazing confusing well-acted exciting well-acted beautiful slow slow beautiful amazing confusing beautiful. Overall, it felt disappointing.",2417,3.8,neutral,2025-06-07T12:36:57.060303
+P2205,Reddit,user_65,Avengers Endgame,What are your thoughts on Avengers Endgame? amazing bad confusing amazing amazing amazing beautiful.,4652,,neutral,2024-11-12T12:36:57.060311
+P2206,Reddit,user_588,Joker,What are your thoughts on Joker? boring well-acted great intense exciting bad beautiful.,7050,3.7,negative,2024-11-01T12:36:57.060320
+P2207,YouTube,user_690,Dune,My quick thoughts on Dune: exciting boring beautiful well-acted exciting beautiful intense beautiful bad bad amazing. More details in full video!,5770,,neutral,2024-08-08T12:36:57.060328
+P2208,IMDB,user_270,Oppenheimer,"Review of Oppenheimer: amazing boring boring great well-acted boring beautiful beautiful beautiful bad confusing slow beautiful. Overall, it felt fantastic.",6940,,positive,2025-10-19T12:36:57.060339
+P2209,IMDB,user_297,Joker,"Review of Joker: amazing bad slow exciting bad exciting confusing intense well-acted intense boring amazing bad. Overall, it felt disappointing.",8990,,negative,2025-08-23T12:36:57.060348
+P2210,Twitter,user_421,Interstellar,Just watched Interstellar! confusing beautiful great amazing bad confusing intense well-acted. #Interstellar,2539,5.3,neutral,2025-09-15T12:36:57.060356
+P2211,IMDB,user_713,Inception,"Review of Inception: exciting great boring bad exciting intense great great bad. Overall, it felt disappointing.",4861,,negative,2024-11-04T12:36:57.060365
+P2212,Twitter,user_339,Interstellar,Just watched Interstellar! bad intense slow amazing well-acted confusing confusing slow intense well-acted slow intense confusing amazing. #Interstellar,5296,1.3,positive,2025-09-26T12:36:57.060374
+P2213,IMDB,user_443,Oppenheimer,"Review of Oppenheimer: confusing beautiful great boring slow amazing intense great confusing confusing. Overall, it felt disappointing.",3459,,positive,2025-04-21T12:36:57.060383
+P2214,Reddit,user_131,Avengers Endgame,What are your thoughts on Avengers Endgame? boring intense great exciting well-acted bad.,9904,6.0,neutral,2025-03-31T12:36:57.060391
+P2215,Reddit,user_599,Interstellar,What are your thoughts on Interstellar? confusing exciting well-acted confusing beautiful beautiful beautiful bad.,9651,7.7,positive,2024-08-02T12:36:57.060399
+P2216,Reddit,user_727,Avengers Endgame,What are your thoughts on Avengers Endgame? great boring bad intense intense amazing well-acted slow.,1600,,positive,2025-05-27T12:36:57.060408
+P2217,Reddit,user_797,Dune,What are your thoughts on Dune? bad boring amazing confusing bad beautiful great well-acted.,8485,5.2,positive,2025-05-06T12:36:57.060416
+P2218,Reddit,user_644,Inception,What are your thoughts on Inception? beautiful amazing exciting amazing beautiful intense amazing amazing well-acted.,1695,3.0,neutral,2025-09-16T12:36:57.060424
+P2219,IMDB,user_780,Dune,"Review of Dune: confusing beautiful exciting beautiful beautiful amazing bad great. Overall, it felt fantastic.",5527,10.0,positive,2025-08-23T12:36:57.060433
+P2220,Twitter,user_772,Dune,Just watched Dune! beautiful beautiful slow boring intense confusing beautiful bad beautiful confusing. #Dune,2598,,positive,2025-09-18T12:36:57.060441
+P2221,IMDB,user_115,Joker,"Review of Joker: slow beautiful amazing beautiful boring bad exciting great amazing intense. Overall, it felt average.",6763,8.2,neutral,2025-01-20T12:36:57.060450
+P2222,Reddit,user_470,Inception,What are your thoughts on Inception? exciting boring intense great well-acted amazing slow intense.,2750,,neutral,2025-01-26T12:36:57.060459
+P2223,YouTube,user_543,Dune,My quick thoughts on Dune: bad amazing boring boring boring amazing beautiful well-acted amazing exciting intense great great great. More details in full video!,2803,6.2,negative,2025-05-09T12:36:57.060469
+P2224,Twitter,user_742,Dune,Just watched Dune! confusing beautiful well-acted exciting great intense great. #Dune,4694,5.7,neutral,2025-07-14T12:36:57.060477
+P2225,IMDB,user_264,Interstellar,"Review of Interstellar: boring boring slow great confusing boring slow beautiful confusing beautiful exciting slow confusing. Overall, it felt average.",6266,4.7,negative,2025-10-21T12:36:57.060486
+P2226,Twitter,user_359,Joker,Just watched Joker! beautiful great confusing intense beautiful exciting boring confusing boring beautiful beautiful well-acted bad. #Joker,5695,4.2,negative,2024-08-23T12:36:57.060495
+P2227,Twitter,user_353,Interstellar,Just watched Interstellar! exciting bad exciting amazing great exciting great bad exciting beautiful. #Interstellar,505,,positive,2025-06-08T12:36:57.060504
+P2228,YouTube,user_71,Inception,My quick thoughts on Inception: bad great confusing beautiful exciting well-acted amazing great. More details in full video!,5414,,positive,2024-07-29T12:36:57.060512
+P2229,YouTube,user_755,Interstellar,My quick thoughts on Interstellar: slow boring bad amazing amazing well-acted confusing slow. More details in full video!,1464,,negative,2024-12-07T12:36:57.060522
+P2230,Reddit,user_743,Dune,What are your thoughts on Dune? confusing slow slow amazing confusing bad confusing well-acted slow exciting intense.,7154,,positive,2024-09-24T12:36:57.060530
+P2231,IMDB,user_483,Interstellar,"Review of Interstellar: beautiful exciting slow beautiful intense well-acted exciting amazing. Overall, it felt fantastic.",8448,,neutral,2025-11-17T12:36:57.060538
+P2232,YouTube,user_305,Oppenheimer,My quick thoughts on Oppenheimer: well-acted bad amazing well-acted exciting beautiful bad great intense great intense. More details in full video!,6024,,neutral,2025-05-15T12:36:57.060547
+P2233,YouTube,user_532,Joker,My quick thoughts on Joker: beautiful great confusing beautiful amazing well-acted great boring well-acted bad slow intense confusing. More details in full video!,2326,5.3,neutral,2024-10-27T12:36:57.060559
+P2234,IMDB,user_546,Oppenheimer,"Review of Oppenheimer: intense slow amazing slow confusing amazing confusing slow. Overall, it felt disappointing.",5945,,positive,2025-07-12T12:36:57.060574
+P2235,Reddit,user_601,Avengers Endgame,What are your thoughts on Avengers Endgame? intense slow exciting beautiful great amazing beautiful beautiful bad exciting amazing intense.,4727,3.9,positive,2024-08-07T12:36:57.060586
+P2236,Twitter,user_527,Joker,Just watched Joker! great slow great great great amazing bad. #Joker,2290,8.4,positive,2025-02-12T12:36:57.060594
+P2237,Reddit,user_91,Oppenheimer,What are your thoughts on Oppenheimer? boring exciting intense slow slow bad intense amazing exciting bad bad.,213,7.8,neutral,2024-11-21T12:36:57.060602
+P2238,Twitter,user_768,Interstellar,Just watched Interstellar! intense exciting great confusing great intense amazing exciting boring well-acted beautiful. #Interstellar,4881,1.6,negative,2025-11-03T12:36:57.060611
+P2239,IMDB,user_599,Joker,"Review of Joker: exciting amazing bad great boring well-acted well-acted confusing. Overall, it felt fantastic.",4528,6.2,positive,2025-07-03T12:36:57.060619
+P2240,IMDB,user_373,Inception,"Review of Inception: great great well-acted boring well-acted exciting well-acted intense well-acted. Overall, it felt disappointing.",3325,1.9,positive,2025-10-27T12:36:57.060632
+P2241,YouTube,user_360,Oppenheimer,My quick thoughts on Oppenheimer: amazing well-acted beautiful confusing well-acted boring confusing confusing boring confusing boring. More details in full video!,9276,,negative,2025-10-01T12:36:57.060645
+P2242,Reddit,user_721,Interstellar,What are your thoughts on Interstellar? amazing confusing great confusing beautiful bad boring amazing beautiful amazing intense beautiful intense.,3567,,neutral,2025-04-13T12:36:57.060654
+P2243,YouTube,user_397,Avengers Endgame,My quick thoughts on Avengers Endgame: boring slow intense amazing beautiful bad well-acted exciting confusing. More details in full video!,5737,5.5,negative,2025-06-24T12:36:57.060662
+P2244,Reddit,user_571,Dune,What are your thoughts on Dune? bad bad boring intense intense intense intense boring well-acted.,2542,1.3,positive,2025-11-03T12:36:57.060671
+P2245,IMDB,user_323,Oppenheimer,"Review of Oppenheimer: intense intense well-acted great slow exciting great slow beautiful intense amazing confusing. Overall, it felt average.",2550,,neutral,2025-11-14T12:36:57.060680
+P2246,Reddit,user_471,Dune,What are your thoughts on Dune? intense confusing exciting exciting beautiful confusing slow exciting confusing intense well-acted boring slow boring.,3935,3.2,negative,2025-02-14T12:36:57.060688
+P2247,Reddit,user_280,Oppenheimer,What are your thoughts on Oppenheimer? great bad well-acted boring slow intense great slow confusing.,522,5.1,neutral,2025-04-12T12:36:57.060697
+P2248,IMDB,user_134,Joker,"Review of Joker: confusing great boring boring beautiful beautiful intense confusing intense. Overall, it felt fantastic.",3478,9.5,positive,2024-12-02T12:36:57.060706
+P2249,Twitter,user_686,Joker,Just watched Joker! intense intense amazing slow bad bad amazing amazing boring. #Joker,3284,,positive,2025-08-28T12:36:57.060714
+P2250,Reddit,user_424,Interstellar,What are your thoughts on Interstellar? great well-acted great amazing well-acted bad great great bad confusing slow intense exciting intense.,6614,,neutral,2024-11-04T12:36:57.060723
+P2251,IMDB,user_231,Inception,"Review of Inception: great beautiful amazing well-acted boring great great slow bad. Overall, it felt average.",9591,2.1,neutral,2024-10-01T12:36:57.060731
+P2252,Twitter,user_402,Dune,Just watched Dune! boring intense bad slow intense exciting exciting great confusing well-acted. #Dune,9260,8.4,neutral,2025-02-02T12:36:57.060740
+P2253,Reddit,user_628,Avengers Endgame,What are your thoughts on Avengers Endgame? slow amazing amazing exciting boring bad bad.,6149,,positive,2025-06-11T12:36:57.060749
+P2254,Twitter,user_661,Joker,Just watched Joker! great exciting boring intense confusing great great beautiful intense amazing well-acted beautiful slow. #Joker,5366,2.4,neutral,2025-04-11T12:36:57.060757
+P2255,Reddit,user_541,Joker,What are your thoughts on Joker? great confusing exciting beautiful exciting bad.,1331,,negative,2025-06-19T12:36:57.060766
+P2256,Twitter,user_773,Joker,Just watched Joker! confusing bad exciting beautiful intense bad. #Joker,8278,,positive,2025-02-14T12:36:57.060775
+P2257,Twitter,user_771,Avengers Endgame,Just watched Avengers Endgame! great exciting slow bad well-acted well-acted beautiful. #AvengersEndgame,8571,,negative,2025-06-10T12:36:57.060783
+P2258,Twitter,user_224,Avengers Endgame,Just watched Avengers Endgame! amazing great beautiful amazing intense amazing intense slow. #AvengersEndgame,6083,,neutral,2025-01-07T12:36:57.060792
+P2259,IMDB,user_243,Joker,"Review of Joker: exciting amazing slow bad intense boring amazing slow intense boring well-acted amazing confusing boring. Overall, it felt fantastic.",1252,,neutral,2025-04-08T12:36:57.060801
+P2260,Twitter,user_259,Dune,Just watched Dune! intense bad bad great beautiful amazing intense. #Dune,3206,3.0,positive,2024-08-06T12:36:57.060809
+P2261,Reddit,user_139,Oppenheimer,What are your thoughts on Oppenheimer? slow intense exciting exciting beautiful amazing boring great intense boring beautiful.,161,7.8,negative,2025-09-04T12:36:57.060817
+P2262,YouTube,user_710,Dune,My quick thoughts on Dune: amazing boring slow bad well-acted intense beautiful amazing bad amazing. More details in full video!,4354,7.0,neutral,2025-05-14T12:36:57.060826
+P2263,Twitter,user_746,Dune,Just watched Dune! exciting intense exciting beautiful exciting exciting amazing amazing slow exciting great. #Dune,6268,,negative,2024-11-19T12:36:57.060834
+P2264,Twitter,user_244,Inception,Just watched Inception! boring boring intense beautiful boring amazing great. #Inception,3428,5.6,positive,2025-05-01T12:36:57.060843
+P2265,IMDB,user_58,Interstellar,"Review of Interstellar: amazing great confusing boring amazing beautiful well-acted slow amazing slow. Overall, it felt disappointing.",1545,5.4,positive,2025-09-15T12:36:57.060852
+P2266,IMDB,user_357,Oppenheimer,"Review of Oppenheimer: great well-acted exciting confusing bad great well-acted well-acted. Overall, it felt disappointing.",201,,neutral,2025-10-22T12:36:57.060860
+P2267,Reddit,user_467,Avengers Endgame,What are your thoughts on Avengers Endgame? bad boring bad slow bad exciting slow well-acted.,735,,neutral,2025-07-27T12:36:57.060868
+P2268,IMDB,user_106,Inception,"Review of Inception: well-acted amazing well-acted boring beautiful slow. Overall, it felt fantastic.",3744,3.5,neutral,2025-07-20T12:36:57.060877
+P2269,YouTube,user_238,Joker,My quick thoughts on Joker: bad beautiful beautiful boring confusing well-acted slow boring boring great great boring intense intense. More details in full video!,3832,,positive,2025-07-21T12:36:57.060886
+P2270,Twitter,user_193,Inception,Just watched Inception! slow well-acted amazing confusing great amazing confusing well-acted boring amazing intense confusing. #Inception,5918,3.7,neutral,2025-11-29T12:36:57.060895
+P2271,IMDB,user_454,Inception,"Review of Inception: exciting beautiful amazing amazing confusing slow boring exciting boring bad well-acted beautiful bad amazing. Overall, it felt fantastic.",8670,5.2,negative,2025-05-17T12:36:57.060904
+P2272,Reddit,user_163,Oppenheimer,What are your thoughts on Oppenheimer? amazing exciting exciting well-acted amazing confusing well-acted slow bad.,8310,,positive,2025-07-28T12:36:57.060912
+P2273,Twitter,user_790,Dune,Just watched Dune! boring confusing exciting intense well-acted bad great boring boring amazing slow intense. #Dune,4740,,negative,2025-09-23T12:36:57.060920
+P2274,IMDB,user_38,Interstellar,"Review of Interstellar: bad intense bad intense great beautiful exciting boring boring intense boring slow. Overall, it felt disappointing.",9318,7.4,negative,2025-07-02T12:36:57.060930
+P2275,Twitter,user_575,Inception,Just watched Inception! slow amazing slow beautiful well-acted great well-acted. #Inception,5841,,neutral,2025-08-23T12:36:57.060945
+P2276,YouTube,user_757,Inception,My quick thoughts on Inception: well-acted exciting slow well-acted great well-acted bad bad boring slow exciting great boring exciting. More details in full video!,3406,,negative,2024-10-09T12:36:57.060970
+P2277,YouTube,user_432,Dune,My quick thoughts on Dune: exciting slow well-acted well-acted slow intense boring intense well-acted exciting confusing. More details in full video!,4171,,neutral,2025-05-20T12:36:57.060981
+P2278,Twitter,user_178,Joker,Just watched Joker! confusing boring boring boring well-acted great intense confusing amazing bad. #Joker,6892,,positive,2024-08-04T12:36:57.060989
+P2279,YouTube,user_414,Interstellar,My quick thoughts on Interstellar: boring slow slow beautiful beautiful bad. More details in full video!,8937,7.5,neutral,2025-08-23T12:36:57.060997
+P2280,IMDB,user_91,Inception,"Review of Inception: amazing confusing beautiful bad amazing slow great intense well-acted. Overall, it felt fantastic.",2990,,positive,2024-09-04T12:36:57.061006
+P2281,Reddit,user_722,Interstellar,What are your thoughts on Interstellar? bad confusing slow well-acted slow great exciting confusing boring boring.,2294,,positive,2025-09-15T12:36:57.061014
+P2282,Reddit,user_491,Avengers Endgame,What are your thoughts on Avengers Endgame? slow slow great confusing amazing bad bad exciting great boring bad well-acted slow.,2752,7.8,negative,2024-09-13T12:36:57.061023
+P2283,Twitter,user_724,Inception,Just watched Inception! bad slow amazing great beautiful great boring. #Inception,9920,,negative,2024-12-14T12:36:57.061031
+P2284,IMDB,user_697,Avengers Endgame,"Review of Avengers Endgame: amazing bad slow bad beautiful confusing exciting confusing boring. Overall, it felt fantastic.",4062,8.9,positive,2025-08-11T12:36:57.061040
+P2285,YouTube,user_270,Joker,My quick thoughts on Joker: well-acted amazing exciting amazing intense confusing great beautiful slow well-acted slow slow bad. More details in full video!,9702,2.3,positive,2025-07-21T12:36:57.061049
+P2286,YouTube,user_561,Interstellar,My quick thoughts on Interstellar: confusing great boring well-acted bad well-acted amazing amazing. More details in full video!,879,,negative,2025-11-20T12:36:57.061059
+P2287,Reddit,user_484,Joker,What are your thoughts on Joker? well-acted great well-acted great confusing beautiful great slow.,6048,6.0,positive,2025-07-29T12:36:57.061067
+P2288,Reddit,user_798,Dune,What are your thoughts on Dune? bad amazing intense well-acted amazing bad great intense amazing.,1690,,negative,2025-10-22T12:36:57.061076
+P2289,YouTube,user_309,Interstellar,My quick thoughts on Interstellar: well-acted well-acted exciting intense beautiful bad great boring bad slow confusing. More details in full video!,9765,4.8,negative,2025-11-09T12:36:57.061090
+P2290,IMDB,user_352,Oppenheimer,"Review of Oppenheimer: confusing exciting great amazing beautiful bad amazing amazing confusing bad. Overall, it felt disappointing.",1365,1.6,negative,2025-04-02T12:36:57.061108
+P2291,IMDB,user_581,Avengers Endgame,"Review of Avengers Endgame: beautiful amazing bad amazing exciting well-acted intense exciting. Overall, it felt disappointing.",6764,5.9,neutral,2025-05-16T12:36:57.061118
+P2292,IMDB,user_8,Dune,"Review of Dune: slow boring boring confusing well-acted slow bad confusing beautiful great great intense great. Overall, it felt fantastic.",6034,4.3,neutral,2025-03-15T12:36:57.061127
+P2293,Twitter,user_268,Interstellar,Just watched Interstellar! slow well-acted boring slow amazing bad confusing. #Interstellar,4083,,negative,2025-07-20T12:36:57.061135
+P2294,Twitter,user_269,Joker,Just watched Joker! boring confusing amazing confusing beautiful bad well-acted intense confusing amazing amazing exciting. #Joker,1012,5.7,negative,2024-10-16T12:36:57.061144
+P2295,Twitter,user_290,Oppenheimer,Just watched Oppenheimer! amazing bad beautiful well-acted bad slow. #Oppenheimer,9557,,negative,2025-08-18T12:36:57.061152
+P2296,Twitter,user_398,Dune,Just watched Dune! bad beautiful great great boring boring. #Dune,1816,2.6,neutral,2025-01-12T12:36:57.061160
+P2297,Reddit,user_225,Oppenheimer,What are your thoughts on Oppenheimer? boring boring bad slow beautiful beautiful boring beautiful beautiful well-acted.,6808,,positive,2024-11-24T12:36:57.061169
+P2298,Reddit,user_19,Dune,What are your thoughts on Dune? great beautiful boring great bad boring exciting bad.,9932,8.9,negative,2024-10-30T12:36:57.061177
+P2299,IMDB,user_417,Joker,"Review of Joker: beautiful well-acted amazing boring amazing beautiful confusing intense. Overall, it felt fantastic.",9315,1.0,positive,2024-09-30T12:36:57.061186
+P2300,IMDB,user_176,Oppenheimer,"Review of Oppenheimer: confusing exciting boring boring amazing confusing well-acted bad slow exciting intense. Overall, it felt fantastic.",395,7.3,neutral,2025-10-10T12:36:57.061195
+P2301,Twitter,user_164,Joker,Just watched Joker! intense intense well-acted exciting confusing well-acted. #Joker,2888,,negative,2025-11-24T12:36:57.061203
+P2302,Twitter,user_24,Joker,Just watched Joker! beautiful well-acted well-acted great well-acted confusing well-acted amazing slow bad confusing slow. #Joker,3341,2.7,negative,2025-05-28T12:36:57.061211
+P2303,IMDB,user_552,Avengers Endgame,"Review of Avengers Endgame: boring confusing great slow great beautiful amazing intense exciting great confusing slow bad confusing. Overall, it felt average.",7423,5.3,neutral,2025-03-20T12:36:57.061221
+P2304,Twitter,user_238,Oppenheimer,Just watched Oppenheimer! confusing great confusing great confusing beautiful amazing boring beautiful well-acted slow boring well-acted. #Oppenheimer,14,2.4,neutral,2025-08-21T12:36:57.061230
+P2305,IMDB,user_373,Avengers Endgame,"Review of Avengers Endgame: exciting great beautiful exciting amazing beautiful bad bad amazing well-acted confusing well-acted confusing intense. Overall, it felt disappointing.",1564,,negative,2025-09-29T12:36:57.061239
+P2306,Twitter,user_536,Avengers Endgame,Just watched Avengers Endgame! boring beautiful great exciting confusing exciting well-acted bad exciting beautiful. #AvengersEndgame,3956,4.0,positive,2024-11-01T12:36:57.061248
+P2307,IMDB,user_282,Interstellar,"Review of Interstellar: bad beautiful intense boring confusing boring bad amazing intense amazing. Overall, it felt fantastic.",2580,8.6,negative,2025-04-26T12:36:57.061256
+P2308,IMDB,user_38,Dune,"Review of Dune: great great boring well-acted exciting great boring well-acted. Overall, it felt disappointing.",3828,7.3,negative,2025-10-09T12:36:57.061265
+P2309,Reddit,user_536,Inception,What are your thoughts on Inception? bad amazing amazing confusing well-acted slow well-acted beautiful exciting.,2801,,neutral,2025-01-31T12:36:57.061274
+P2310,Reddit,user_643,Interstellar,What are your thoughts on Interstellar? boring intense exciting intense boring beautiful amazing bad confusing great beautiful slow beautiful great.,4435,9.8,neutral,2025-04-13T12:36:57.061283
+P2311,Twitter,user_126,Avengers Endgame,Just watched Avengers Endgame! amazing exciting well-acted confusing great exciting boring. #AvengersEndgame,9225,,positive,2025-03-16T12:36:57.061291
+P2312,YouTube,user_448,Interstellar,My quick thoughts on Interstellar: confusing beautiful intense boring confusing intense bad well-acted bad. More details in full video!,1215,,positive,2025-06-20T12:36:57.061300
+P2313,Twitter,user_491,Inception,Just watched Inception! slow amazing confusing slow intense great bad intense well-acted amazing great slow confusing. #Inception,8119,8.9,negative,2025-09-28T12:36:57.061309
+P2314,YouTube,user_170,Inception,My quick thoughts on Inception: great well-acted boring great intense bad. More details in full video!,1122,4.3,negative,2024-10-27T12:36:57.061317
+P2315,YouTube,user_306,Joker,My quick thoughts on Joker: great intense boring confusing bad confusing exciting bad. More details in full video!,7222,3.4,negative,2025-03-13T12:36:57.061325
+P2316,Reddit,user_310,Inception,What are your thoughts on Inception? intense slow boring amazing well-acted amazing slow beautiful beautiful well-acted.,6729,,negative,2025-09-13T12:36:57.061335
+P2317,Twitter,user_708,Inception,Just watched Inception! amazing bad boring well-acted amazing exciting amazing slow exciting amazing confusing amazing intense. #Inception,9027,2.5,negative,2024-08-25T12:36:57.061361
+P2318,Twitter,user_431,Oppenheimer,Just watched Oppenheimer! boring slow intense confusing beautiful exciting amazing well-acted beautiful amazing. #Oppenheimer,1500,,negative,2025-09-12T12:36:57.061370
+P2319,IMDB,user_279,Avengers Endgame,"Review of Avengers Endgame: intense bad boring boring beautiful amazing intense intense boring beautiful. Overall, it felt average.",7452,,negative,2025-06-18T12:36:57.061379
+P2320,Twitter,user_619,Joker,Just watched Joker! exciting beautiful bad confusing bad exciting amazing beautiful bad beautiful. #Joker,1936,8.8,positive,2025-04-25T12:36:57.061387
+P2321,IMDB,user_410,Dune,"Review of Dune: boring great slow great beautiful exciting boring well-acted amazing. Overall, it felt disappointing.",9293,9.9,neutral,2025-04-16T12:36:57.061395
+P2322,YouTube,user_490,Inception,My quick thoughts on Inception: slow beautiful amazing bad well-acted slow exciting bad. More details in full video!,6683,,negative,2025-09-08T12:36:57.061404
+P2323,YouTube,user_620,Dune,My quick thoughts on Dune: amazing well-acted confusing confusing beautiful well-acted beautiful boring. More details in full video!,6144,5.6,negative,2025-10-28T12:36:57.061412
+P2324,IMDB,user_658,Avengers Endgame,"Review of Avengers Endgame: great confusing confusing slow beautiful well-acted intense exciting exciting. Overall, it felt fantastic.",5310,2.9,neutral,2025-04-03T12:36:57.061420
+P2325,IMDB,user_696,Joker,"Review of Joker: slow bad intense amazing exciting beautiful beautiful well-acted intense. Overall, it felt disappointing.",963,,neutral,2024-10-30T12:36:57.061429
+P2326,Twitter,user_590,Dune,Just watched Dune! slow great well-acted exciting intense intense beautiful amazing great great great. #Dune,5219,3.0,positive,2024-12-16T12:36:57.061437
+P2327,Twitter,user_94,Oppenheimer,Just watched Oppenheimer! boring exciting bad slow intense beautiful great slow amazing. #Oppenheimer,8900,,positive,2025-07-03T12:36:57.061446
+P2328,YouTube,user_463,Interstellar,My quick thoughts on Interstellar: intense confusing boring beautiful great bad confusing exciting confusing beautiful exciting exciting well-acted confusing. More details in full video!,1890,,neutral,2025-05-29T12:36:57.061455
+P2329,Twitter,user_23,Inception,Just watched Inception! boring amazing beautiful well-acted slow slow well-acted well-acted bad. #Inception,717,9.4,negative,2024-12-20T12:36:57.061464
+P2330,YouTube,user_176,Oppenheimer,My quick thoughts on Oppenheimer: bad great great bad beautiful slow well-acted great intense boring well-acted exciting. More details in full video!,6018,,negative,2024-09-17T12:36:57.061472
+P2331,IMDB,user_248,Oppenheimer,"Review of Oppenheimer: slow intense boring amazing slow beautiful intense confusing boring amazing bad. Overall, it felt disappointing.",4711,7.7,negative,2025-07-03T12:36:57.061482
+P2332,Reddit,user_642,Inception,What are your thoughts on Inception? confusing great beautiful great slow slow confusing.,7353,6.6,neutral,2025-07-17T12:36:57.061489
+P2333,YouTube,user_498,Joker,My quick thoughts on Joker: exciting slow confusing bad beautiful exciting exciting confusing well-acted amazing boring. More details in full video!,7026,8.0,neutral,2025-08-31T12:36:57.061498
+P2334,YouTube,user_431,Avengers Endgame,My quick thoughts on Avengers Endgame: great exciting slow amazing amazing intense great boring. More details in full video!,6655,6.0,positive,2024-08-16T12:36:57.061507
+P2335,IMDB,user_485,Oppenheimer,"Review of Oppenheimer: slow slow great amazing bad slow slow. Overall, it felt average.",5096,,negative,2024-12-01T12:36:57.061516
+P2336,Reddit,user_445,Inception,What are your thoughts on Inception? well-acted boring amazing bad slow intense great.,9131,,positive,2024-12-10T12:36:57.061524
+P2337,Reddit,user_6,Dune,What are your thoughts on Dune? beautiful confusing amazing well-acted beautiful bad great intense amazing boring intense boring.,20,,positive,2024-11-15T12:36:57.061534
+P2338,Twitter,user_358,Dune,Just watched Dune! well-acted bad amazing well-acted beautiful beautiful well-acted boring confusing exciting beautiful exciting. #Dune,6381,,positive,2025-04-15T12:36:57.061543
+P2339,Reddit,user_707,Inception,What are your thoughts on Inception? beautiful slow boring confusing bad confusing.,5354,2.6,positive,2025-10-16T12:36:57.061551
+P2340,YouTube,user_487,Avengers Endgame,My quick thoughts on Avengers Endgame: slow confusing exciting great slow confusing. More details in full video!,1900,,neutral,2025-05-29T12:36:57.061559
+P2341,Reddit,user_211,Oppenheimer,What are your thoughts on Oppenheimer? well-acted slow confusing slow exciting amazing great intense boring great.,1574,,negative,2025-10-27T12:36:57.061567
+P2342,Twitter,user_349,Inception,Just watched Inception! boring boring bad well-acted great exciting boring slow great boring great exciting intense. #Inception,2782,,neutral,2025-07-27T12:36:57.061611
+P2343,Reddit,user_131,Interstellar,What are your thoughts on Interstellar? boring well-acted amazing beautiful boring great confusing great slow boring bad.,4337,1.3,neutral,2024-11-20T12:36:57.061623
+P2344,Twitter,user_292,Joker,Just watched Joker! beautiful bad beautiful amazing intense slow beautiful intense confusing well-acted. #Joker,6049,,negative,2025-11-18T12:36:57.061638
+P2345,Twitter,user_466,Dune,Just watched Dune! intense exciting slow great beautiful exciting bad great confusing amazing exciting exciting intense exciting. #Dune,1172,7.5,negative,2025-05-28T12:36:57.061652
+P2346,Twitter,user_292,Dune,Just watched Dune! intense amazing slow intense amazing amazing confusing boring bad. #Dune,1076,,negative,2025-10-07T12:36:57.061661
+P2347,Reddit,user_53,Joker,What are your thoughts on Joker? confusing great confusing great intense amazing well-acted bad exciting exciting great exciting.,7147,9.6,positive,2024-11-24T12:36:57.061669
+P2348,IMDB,user_49,Oppenheimer,"Review of Oppenheimer: confusing exciting well-acted well-acted bad confusing exciting great. Overall, it felt average.",3060,6.6,neutral,2025-01-03T12:36:57.061677
+P2349,IMDB,user_487,Dune,"Review of Dune: bad confusing great exciting boring great well-acted exciting beautiful. Overall, it felt average.",2009,7.9,positive,2025-03-13T12:36:57.061688
